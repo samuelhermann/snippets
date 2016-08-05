@@ -1,1 +1,1 @@
-# snippets
+Bribes de code
